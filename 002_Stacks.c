@@ -1,6 +1,6 @@
 //Author: Anikait Singh
 //Creation date: 23 May,2021
-//Purpose: To create Menu for an array to insert, view, search, re-enter and delete array.
+//Purpose: Implement a Stack using Array and develop functions to perform push and pop operations.
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
