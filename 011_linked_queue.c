@@ -30,7 +30,7 @@ int main(){
 		switch(ch){
 			case 1  :enqueue();
 					break;
-			case 2  :view();//getch();
+			case 2  :view();
 					break;
 			case 3  :dequeue();
 					break;
